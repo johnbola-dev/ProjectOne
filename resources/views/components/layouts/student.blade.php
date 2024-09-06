@@ -37,7 +37,7 @@
 </head>
 
 <body class="text-center">
-    <h1>This is from App dot Blade</h1>
+    <h1>This is from Students Blade PHP</h1>
     <div class="col-sm-4 offset-4 mx-auto p-2 mt-5">
         {{ $slot }}
     </div>
